@@ -1,0 +1,5 @@
+name: Lobby
+version: '${project.version}'
+main: me.imfighting.lobby.LobbyPlugin
+authors: [ imFighting ]
+description: Lobby plugin for Minecraft
